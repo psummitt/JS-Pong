@@ -1,1 +1,1 @@
-# JS-Pong
+# JavaScript-Pong
